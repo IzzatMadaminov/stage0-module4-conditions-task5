@@ -3,7 +3,7 @@ package school.mjc.stage0.conditions.task5;
 import school.mjc.stage0.base.BaseIOTest;
 import org.junit.jupiter.api.Test;
 
-class LeapYearPrinterTest extends BaseIOTest {
+class   LeapYearPrinterTest extends BaseIOTest {
 
     @Test
     void isLeapYearPrintsLeapWhen2004() {
